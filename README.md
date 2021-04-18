@@ -1,7 +1,7 @@
-<h3 align="center">Hi, I'm KinderGouello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !</h3>
+<h3 align="center">Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1613122594/12618/party_blob.gif?1613122594" width="30"/></h3>
 
 <p align="center">
-I'm a Freelance Developer in <img src="https://image.flaticon.com/icons/svg/323/323315.svg" width="13"/> <b>Paris</b> <img src="https://image.flaticon.com/icons/svg/1086/1086186.svg" width="20"/>
+I'm Rémy, a Freelance Developer living in <img src="https://image.flaticon.com/icons/svg/323/323315.svg" width="13"/> <b>Paris</b> <img src="https://image.flaticon.com/icons/svg/1086/1086186.svg" width="20"/>
 </p>
 
 <p align="center">
